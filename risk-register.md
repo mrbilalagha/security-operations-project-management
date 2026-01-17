@@ -1,7 +1,7 @@
 # Risk Register
 
 | Risk | Impact | Likelihood | Mitigation |
-|-----|--------|------------|------------|
-| Deployment failure | High | Medium | Rollback plan and testing |
+|------|--------|------------|------------|
+| Delays in EDR deployment | Medium | Medium | Confirm schedules and dependencies early |
+| Monitoring gaps during rollout | High | Low | Coordinate closely with MSP team |
 | Downtime | High | Low | Off-hours scheduling |
-| Resource unavailability | Medium | Medium | Advance planning |
