@@ -1,7 +1,8 @@
 # Communication Plan
 
 | Audience | Channel | Frequency |
-|---------|---------|-----------|
-| Client | Email | Weekly / Bi-Weekly |
-| Internal Team | Chat / Meetings | Daily |
-| Management | Status Report | Weekly |
+|---------|--------|-----------|
+| Client | Email / Meetings if needed | Weekly |
+| SOC Team | Email / Meetings | Daily |
+| MSP Team | Email / Meetings | As needed |
+| NOC Team | Email | As needed |
