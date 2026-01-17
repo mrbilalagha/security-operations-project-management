@@ -1,7 +1,5 @@
-#Security Operations Project Management
+#SOC PM
 
-This repository demonstrates basic project management artifacts for a simulated security operations initiative in managed services and managed security services environments.
+This repository contains practical project management documents based on a simulated security operations project in a mid-sized environment.
 
-The project focuses on planning, coordination, communication, risk tracking and delivery oversight. All content is illustrative and does not include any real client data or proprietary information.
-
-The purpose of this repository is to showcase project management fundamentals relevant to junior project manager role.
+The scenario involves coordinating activities around security, network and activity monitoring tools, working alongside an MSP team to plan deploy, track progress, manage risks and report status.
