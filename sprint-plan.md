@@ -1,7 +1,7 @@
 # Sprint Plan
 
 ## Sprint 1 Goal
-Prepare environments and finalize deployment plan.
+Prepare environment and finalize deployment plan.
 
 Backlog Items:
 - Asset review
@@ -9,7 +9,7 @@ Backlog Items:
 - Communication plan
   
 ## Sprint 2 Goal
-Execute deployment and monitoring setup.
+Coordinate rollout activities and ensure monitoring visibility through existing SIEM processes.
 
 Backlog Items:
 - Tool rollout
