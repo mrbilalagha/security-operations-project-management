@@ -1,8 +1,8 @@
 # Stakeholder Register
 
-| Stakeholder Role | Interest | Influence |
-|------------------|----------|-----------|
+| Stakeholder | Interest | Influence |
+|------------|----------|-----------|
 | Client | Service stability and security | High |
-| Security Engineer | Correct deployment | Medium |
+| SOC Team | Effective monitoring using SIEM/EDR | Medium |
+| NOC Team | Network monitoring | Low |
 | Project Coordinator | Task tracking and reporting | High |
-| Management | Delivery and risk visibility | Medium |
