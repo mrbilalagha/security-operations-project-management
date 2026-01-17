@@ -1,18 +1,17 @@
 # Project Charter
 
 ## Project Objective
-Deploy and stabilize security monitoring and patch management processes across multiple client environments while minimizing service disruption.
+Deploy and stabilize security monitoring and EDR/XDR management processes across a client environment while minimizing service disruption.
 
 ## Scope
-In Scope:
-- Endpoint security deployment coordination
-- Patch scheduling and tracking
-- Basic monitoring setup
-- Documentation and handover
+- In Scope:
+- Coordinating deployment activities related to endpoint protection (EDR/XDR)
+- Supporting scheduling and tracking for SIEM onboarding tasks
+- Documentation and handover coordination
 
 Out of Scope:
-- Security architecture redesign
-- Custom software development
+- Coordinating SD-WAN-related activities
+- Custom agent development
 
 ## Constraints
 - Limited technical resources
